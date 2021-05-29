@@ -7,9 +7,6 @@ To run the code yourself, download the zip file from Kaggle, extract it, and cop
 
 This is how it looks in action:
 
+![gif](troll-generator.gif)
 
-
-
-
-
-(Drawing on code found in https://towardsdatascience.com/fine-tune-a-non-english-gpt-2-model-with-huggingface-9acc2dc7635b)
+Keep in mind that the resulting tweets can be highly problematic.
