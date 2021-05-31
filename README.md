@@ -1,5 +1,5 @@
 # troll-bot
-Generates tweets similar to Russian trolls in the 2016 election -- a demonstration of the concering fact that neural nets to easily generate somewhat believable political content for social media.
+Generates tweets similar to Russian trolls in the 2016 election -- a demonstration of the concering fact that neural nets can easily generate somewhat believable political content for social media.
 
 This GPT2-based tweet generator is trained on a dataset released by FiveThirtyEight, containing tweets from accounts associated with an infamous Russian troll farm, the Internet Research Agency: https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
 
